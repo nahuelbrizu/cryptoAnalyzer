@@ -11,6 +11,7 @@ Antes de comenzar, asegúrate de tener instalado en tu máquina Ubuntu:
 - **Git**: `sudo apt-get install git`
 - **MySQL 8.0 o superior** (o TiDB compatible): Para la base de datos
 - **Visual Studio Code** (opcional): Editor recomendado
+. **pnpm add -D vitest @types/node jsdom
 
 Verifica las instalaciones:
 
