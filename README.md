@@ -27,7 +27,7 @@ mysql --version
 
 ```bash
 # Clona el repositorio
-git clone <URL_DEL_REPOSITORIO> crypto_analyzer
+git clone git@github.com:nahuelbrizu/cryptoAnalyzer.git crypto_analyzer
 cd crypto_analyzer
 
 # Instala las dependencias
